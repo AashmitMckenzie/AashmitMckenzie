@@ -4,10 +4,10 @@
 I'm a final-year Computer Science Engineering student specializing in **Security and Privacy** at Symbiosis Institute of Technology, passionate about strengthening digital infrastructure through applied cybersecurity practices.<br><br>
 
 ### 🔍 What I Do<br>
-**Threat Detection & Analysis**: Building real-time ML systems for security threat detection<br>-
-**Vulnerability Assessment**: Identifying and mitigating security vulnerabilities using OWASP standards<br>-
-**Hardware Security Research**: Exploring PUF-based authentication systems and adversarial attacks<br>-
-**Cloud Security**: Designing secure, scalable cloud architectures on AWS<br><br><br>
+- Threat Detection & Analysis: Building real-time ML systems for security threat detection<br>
+- Vulnerability Assessment: Identifying and mitigating security vulnerabilities using OWASP standards<br>
+- Hardware Security Research: Exploring PUF-based authentication systems and adversarial attacks<br
+- **Cloud Security:** Designing secure, scalable cloud architectures on AWS<br><br><br>
 
 ### 🌱 Currently Learning<br>
 - Advanced Hardware Security Techniques<br>
