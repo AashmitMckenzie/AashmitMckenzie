@@ -1,4 +1,4 @@
-# Hi there, I'm Aashmit McKenzie! 👋 
+# 👋 Hi there, I'm Aashmit McKenzie!  
 
 ## 🛡️ Cybersecurity Engineer & Machine Learning Enthusiast<br>
 I'm a final-year Computer Science Engineering student specializing in **Security and Privacy** at Symbiosis Institute of Technology, passionate about strengthening digital infrastructure through applied cybersecurity practices.<br><br>
