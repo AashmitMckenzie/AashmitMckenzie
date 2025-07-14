@@ -33,8 +33,3 @@ I'm a final-year Computer Science Engineering student specializing in **Security
 - 🌐 **Portfolio**: [aashmitmckenzie.github.io/Portfolio](https://aashmitmckenzie.github.io/Portfolio/)<br>
 - 📧 **Email**: aashmit.mckenzie@gmail.com<br>
 - 📍 **Location**: Pune, Maharashtra, India<br><br>
-
-
-[![](https://visitcount.itsvg.in/api?id=AashmitMckenzie&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
