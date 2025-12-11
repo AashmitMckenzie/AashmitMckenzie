@@ -11,9 +11,10 @@ I'm a final-year Computer Science Engineering student specializing in **Security
 - **Cloud Security:** Designing secure, scalable cloud architectures on AWS<br><br>
 
 ### 🌱 Currently Learning<br>
-- Advanced Hardware Security Techniques<br>
-- Advanced Persistent Threat (APT) Detection<br>
-- Zero Trust Security Models<br><br>
+- How to develop Secure Systems<br>
+- Vulnerability Assesment and Penetrtion Testing<br>
+- Blue Teaming<br>
+- Advanced Machine Learning Techniques<br><br>
 
 ### 💡 Fun Facts<br>
 - 🔐 I love breaking things to understand how to secure them better <br>
